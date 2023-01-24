@@ -1,4 +1,6 @@
-# dbms
+## dbms
+
+# Python viz-a-viz SQL :
 We will use this banking transaction system to compare various features of a le-based
 (spreadsheet/.csv les) implementation viz-a-viz a DBMS-based implementation
  Account details are stored in
